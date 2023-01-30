@@ -1,0 +1,4 @@
+*.archimate.bak
+*.ctb~*
+@eaDir
+Thumbs.db
